@@ -38,3 +38,4 @@ Bonus
 Jupyter notebooks always creates extra directories due to auto saving feature (This is the
 .ipynb_checkpoints directory). How would you exclude this directory from your commits given
 you don’t need to track autosaving?
+"# MSBA-Python-private" 
